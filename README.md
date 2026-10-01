@@ -166,10 +166,4 @@ Define as rotas utilizadas para acessar as funcionalidades da API.
 
 ---
 
-## 👩‍💻 Autora
-
-**Mariana Branco Teixeira**
-
-Estudante de Análise e Desenvolvimento de Sistemas.
-
-[GitHub](https://github.com/Mariana-B-Teixeira)
+⭐**Desenvolvido por Mariana B. Teixeira**

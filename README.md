@@ -166,4 +166,4 @@ Define as rotas utilizadas para acessar as funcionalidades da API.
 
 ---
 
-⭐**Desenvolvido por Mariana B. Teixeira**
+⭐Desenvolvido por **Mariana B. Teixeira**
